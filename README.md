@@ -3,13 +3,14 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+Demo on branching & merging
 
 
 ## Purpose
-
-Sample website with plenty of files for demos
+Simple demo on Branching & Merging
 
 ## Deployment
+Demo on B&M
 
 ## How To Contribute
 
