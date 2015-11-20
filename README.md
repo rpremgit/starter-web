@@ -13,6 +13,7 @@ Simple demo on Branching & Merging
 Demo on B&M
 
 ## How To Contribute
+Please fork this repo and then issue pull request
 
 ### Copyright
 2015 copyright
