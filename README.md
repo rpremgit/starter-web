@@ -14,4 +14,5 @@ Demo on B&M
 
 ## How To Contribute
 
-
+### Copyright
+2015 copyright
